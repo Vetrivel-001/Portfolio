@@ -1,4 +1,3 @@
-# Portfolio
 <!DOCTYPE html>
 <html>
 <head>
@@ -79,6 +78,20 @@
             text-align: justify;
             max-width: 850px;
         }
+
+	 .section-Links {
+            background-color: #161b22;
+            padding: 2rem;
+            margin: 1rem auto;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+            text-align: justify;
+            max-width: 850px;
+		a{
+		color:White;
+		}
+        }
+
 
         .download-button {
             background-color: #ffcc00;
@@ -175,6 +188,19 @@
             </ul>
         </div>
     </section>
+
+ <section id="Links">
+        <div class="section-Links">
+            <h2>SocilMedia Links</h2>
+            <ul>
+                
+		<a href="https://www.linkedin.com/in/vetri-vel-21946232a">LinkedIn</a><br>
+		<a href="https://github.com/Vetrivel-001">GitHub</a>
+
+            </ul>
+        </div>
+    </section>
+
 
     <section id="resume">
         <div class="section-content">
