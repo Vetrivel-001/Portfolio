@@ -12,7 +12,7 @@
         }
 
         header {
-            background: linear-gradient(135deg, #1f2937, #0d1117);
+            background: linear-gradient(135deg, #1f2937, #0d1117);'
             color: #ffffff;
             text-align: center;
             padding: 2rem 0;
@@ -120,10 +120,10 @@
 <body>
     <header>
         <div class="header-content">
-<img src= "C:\vetri\vetri.jpg" alt="Description of Image" width="300" height="300">
+<img src= "C:\vetrivel\vetri1.jpg" alt="Description of Image" width="300" height="300">
             <h1>VETRIVEL M</h1>
 		
-            <p>Aspiring Software Developer & Tech Enthusiast</p>
+            <p>Bachelor of Computer Applications(BCA)</p>
         </div>
     </header>
 
@@ -205,7 +205,7 @@
     <section id="resume">
         <div class="section-content">
             <h2>Resume</h2>
-            <a href="C:\vetri\vetri res.png" target="_blank" class="download-button">View</a>
+            <a href="https://drive.google.com/file/d/1Y83TBhSXPBO11rXRPEuqPTj8bqRMdrf2/view?usp=drive_link" target="_blank" class="download-button">View</a>
         </div>
     </section>
 
